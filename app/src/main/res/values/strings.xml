@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Portfolio</string>
+    <string name="piro">PIRO</string>
+    <string name="port">Java/Kotlin Grandmaster</string>
+    <string name="skills">Skills</string>
+    <string name="experience">Experience</string>
+    <string name="education">Education</string>
+    <string name="flex">Flex</string>
+    <string name="skillss">Skills</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="skillsp">With extensive expertise in Java and Android development, I have mastered the intricacies of creating robust, efficient, and user-friendly mobile applications. My proficiency extends to web development, skillfully combining front-end and back-end technologies to build responsive, high-performing websites. Proficiency in Kotlin enhances my ability to develop modern Android applications with concise, expressive code. My knowledge of C allows me to tackle low-level system programming, optimizing performance-critical applications, while my adeptness with Python provides flexibility for tasks ranging from web development and data analysis to automation and machine learning. I am dedicated to writing clean, maintainable code, fostering collaboration, and embracing methodologies like Agile and DevOps. This ensures streamlined workflows and accelerated delivery. My commitment to continuous learning keeps me abreast of technological advancements, enabling me to incorporate cutting-edge solutions into projects. This diverse skill set and dedication to excellence position me as a versatile and highly effective developer capable of making significant contributions to any project or team.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="contact_me">Contact Me</string>
+
+</resources>
